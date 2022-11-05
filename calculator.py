@@ -20,3 +20,4 @@ def divide(x, y):
     else:
         return "На 0 делить нельзя"
 
+print("Hello, it's Calculator!")
